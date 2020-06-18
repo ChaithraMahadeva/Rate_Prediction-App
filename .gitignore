@@ -1,0 +1,11 @@
+.gradle
+app/app.iml
+.DS_Store
+local.properties
+aar.xml
+jar.xml
+checksums.ser
+.idea/
+app/RatePrediction-app.iml
+.idea/modules.xml
+.idea/RatePrediction.iml
